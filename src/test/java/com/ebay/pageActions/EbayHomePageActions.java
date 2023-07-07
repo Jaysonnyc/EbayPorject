@@ -15,19 +15,22 @@ public class EbayHomePageActions {
 		PageFactory.initElements(SetupDrivers.driver, EbayHomePageLocatorsObj);
 	}
 
-	public void searchShoes(){
+	public void searchShoes() throws Exception{
 		EbayHomePageLocatorsObj.txtbxSearch.sendKeys("Shoes");
 		EbayHomePageLocatorsObj.btnSearch.click();
+		Thread.sleep(2000);
 	}
 
-	public void searchShirts(){
+	public void searchShirts() throws Exception{
 		EbayHomePageLocatorsObj.txtbxSearch.sendKeys("Shirts");
 		EbayHomePageLocatorsObj.btnSearch.click();
+		Thread.sleep(2000);
 	}
 
-	public void searchPants(){
+	public void searchPants() throws Exception{
 		EbayHomePageLocatorsObj.txtbxSearch.sendKeys("Pants");
 		EbayHomePageLocatorsObj.btnSearch.click();
+		Thread.sleep(2000);
 	}
 
 	public void searchItems(String items){
@@ -49,7 +52,7 @@ public class EbayHomePageActions {
 		EbayHomePageLocatorsObj.linkSummary.click();
 		Thread.sleep(2000);
 	}
-
+	//testing
 
 
 }
