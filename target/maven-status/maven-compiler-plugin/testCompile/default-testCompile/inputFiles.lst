@@ -1,0 +1,14 @@
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/pageElements/EbayCartLocators.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/pageElements/EbayHomePageLocators.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/utilities/BeforeActions.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/runner/RunnerClass.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/utilities/TakeScreenshot.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/stepDef/EbaySearchResultSteps.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/pageActions/EbayHomePageActions.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/stepDef/EbayHomePageSteps.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/utilities/SetupDrivers.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/utilities/AfterActions.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/pageElements/EbaySearchResultLocators.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/pageActions/EbaySearchResultActions.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/pageActions/EbayCartActions.java
+/Users/jasonvalladolid/eclipse-workspace/EbayProject/src/test/java/com/ebay/stepDef/EbayCartSteps.java
